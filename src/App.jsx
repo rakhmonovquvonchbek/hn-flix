@@ -11,6 +11,8 @@ import {
   saveMyList,
   searchMovies,
 } from './lib/movies'
+import { getConsent, initAnalytics } from './lib/analytics'
+import ConsentBanner from './components/ConsentBanner'
 
 export default function App() {
   const [movies, setMovies] = useState([])
@@ -21,6 +23,10 @@ export default function App() {
   const [view, setView] = useState('home')
   const [selected, setSelected] = useState(null)
   const [myList, setMyList] = useState(() => loadMyList())
+
+  useEffect(() => {
+    if (getConsent() === 'granted') initAnalytics()
+  }, [])
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/movies.json`)
@@ -154,6 +160,8 @@ export default function App() {
           onToggleList={() => toggleList(selected.imdb_id)}
         />
       ) : null}
+
+      <ConsentBanner />
     </div>
   )
 }

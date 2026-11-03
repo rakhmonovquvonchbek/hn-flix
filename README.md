@@ -22,6 +22,14 @@ npm run preview
 
 After deploy, the app is at **https://rakhmonovquvonchbek.github.io/hn-flix/** (GitHub Pages).
 
+## Security
+
+See [docs/SECURITY-AUDIT.md](docs/SECURITY-AUDIT.md) for a secrets/copyright/privacy review of this repo.
+
+## Analytics
+
+Optional **Google Analytics 4** + **Microsoft Clarity** (visitor counts, country, referrers, time on site, session recordings). Setup: [docs/ANALYTICS.md](docs/ANALYTICS.md) — add repository variables, then redeploy.
+
 ## Data
 
 - `public/data/movies.json` — top 200 HN-endorsed **movies** (documentaries excluded from this UI per “movies only”).

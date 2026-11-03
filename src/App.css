@@ -619,3 +619,43 @@
 .footer a {
   color: var(--hn-orange);
 }
+
+.consent {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 300;
+  padding: 1rem clamp(1rem, 4vw, 2rem);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.75));
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.consent__inner {
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+.consent__title {
+  margin: 0 0 0.35rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.consent__text {
+  margin: 0 0 0.85rem;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  line-height: 1.45;
+}
+
+.consent__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.consent__btn {
+  padding: 0.45rem 1rem;
+  font-size: 0.85rem;
+}
