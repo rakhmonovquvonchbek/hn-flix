@@ -23,7 +23,7 @@ export default function App() {
   const [myList, setMyList] = useState(() => loadMyList())
 
   useEffect(() => {
-    fetch('/data/movies.json')
+    fetch(`${import.meta.env.BASE_URL}data/movies.json`)
       .then((r) => {
         if (!r.ok) throw new Error('Could not load catalog')
         return r.json()
