@@ -20,7 +20,8 @@ npm run preview
 
 ## Live site
 
-After deploy, the app is at **https://rakhmonovquvonchbek.github.io/hn-flix/** (GitHub Pages).
+- **Now:** https://rakhmonovquvonchbek.github.io/hn-flix/ (GitHub Pages)
+- **Shorter URLs (free):** see [docs/CUSTOM-DOMAIN.md](docs/CUSTOM-DOMAIN.md) — e.g. `hnflix.vercel.app`, `hnflix.pages.dev`, `hnflix.surge.sh`, or your own `hnflix.app`.
 
 ## Security
 
