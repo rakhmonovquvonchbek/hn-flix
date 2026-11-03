@@ -1,16 +1,19 @@
 import Poster from './Poster'
 import { heroBlurb } from '../lib/movies'
+import { trailerSearchUrl } from '../lib/poster'
 
-export default function Hero({ movie, inList, onPlay, onInfo, onToggleList }) {
+export default function Hero({ movie, inList, onInfo, onToggleList }) {
   if (!movie) return null
+
+  const trailerUrl = trailerSearchUrl(movie)
 
   return (
     <section className="hero" aria-label="Featured film">
-      <div className="hero__backdrop">
-        <Poster movie={movie} alt="" />
-        <div className="hero__shade" />
-        <div className="hero__shade-bottom" />
+      <div className="hero__backdrop" aria-hidden>
+        <Poster movie={movie} variant="hero" alt="" priority />
       </div>
+      <div className="hero__shade" aria-hidden />
+      <div className="hero__shade-bottom" aria-hidden />
       <div className="hero__content">
         <div className="hero__badge">
           <span>#1 on Hacker News</span>
@@ -27,11 +30,11 @@ export default function Hero({ movie, inList, onPlay, onInfo, onToggleList }) {
         </div>
         <p className="hero__desc">{heroBlurb(movie)}</p>
         <div className="hero__actions">
-          <button type="button" className="btn btn--primary" onClick={onPlay}>
-            ▶ More info
-          </button>
+          <a className="btn btn--primary" href={trailerUrl} target="_blank" rel="noreferrer">
+            ▶ Trailer
+          </a>
           <button type="button" className="btn btn--secondary" onClick={onInfo}>
-            Details
+            ℹ More info
           </button>
           <button
             type="button"

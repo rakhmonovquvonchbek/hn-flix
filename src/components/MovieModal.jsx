@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import Poster from './Poster'
 import { heroBlurb, vibeLabel } from '../lib/movies'
+import { hnSearchUrl, trailerSearchUrl } from '../lib/poster'
 
 export default function MovieModal({ movie, inList, onClose, onToggleList }) {
   useEffect(() => {
@@ -21,17 +22,22 @@ export default function MovieModal({ movie, inList, onClose, onToggleList }) {
 
   return (
     <div className="modal-backdrop" role="presentation" onClick={onClose}>
-      <div className="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" onClick={(e) => e.stopPropagation()}>
+      <div
+        className="modal"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="modal-title"
+        onClick={(e) => e.stopPropagation()}
+      >
         <div className="modal__hero">
-          <Poster movie={movie} alt="" />
+          <Poster movie={movie} variant="modal" alt="" priority />
           <div className="modal__hero-shade" />
           <button type="button" className="modal__close" aria-label="Close" onClick={onClose}>
             ×
           </button>
           <div className="modal__hero-text">
             <h2 className="modal__title" id="modal-title">
-              {movie.title}{' '}
-              <span className="modal__year">({movie.year})</span>
+              {movie.title} <span className="modal__year">({movie.year})</span>
             </h2>
           </div>
         </div>
@@ -51,9 +57,15 @@ export default function MovieModal({ movie, inList, onClose, onToggleList }) {
                   </span>
                 ))}
               </div>
-              <div className="hero__actions">
-                <a className="btn btn--primary" href={imdbUrl} target="_blank" rel="noreferrer">
-                  View on IMDb
+              <div className="hero__actions modal__actions">
+                <a className="btn btn--primary" href={trailerSearchUrl(movie)} target="_blank" rel="noreferrer">
+                  ▶ Trailer
+                </a>
+                <a className="btn btn--secondary" href={imdbUrl} target="_blank" rel="noreferrer">
+                  IMDb
+                </a>
+                <a className="btn btn--ghost" href={hnSearchUrl(movie)} target="_blank" rel="noreferrer">
+                  HN threads
                 </a>
                 <button
                   type="button"

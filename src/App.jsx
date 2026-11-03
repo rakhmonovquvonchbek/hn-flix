@@ -13,6 +13,7 @@ import {
 } from './lib/movies'
 import { getConsent, initAnalytics } from './lib/analytics'
 import ConsentBanner from './components/ConsentBanner'
+import Toast from './components/Toast'
 
 export default function App() {
   const [movies, setMovies] = useState([])
@@ -23,6 +24,7 @@ export default function App() {
   const [view, setView] = useState('home')
   const [selected, setSelected] = useState(null)
   const [myList, setMyList] = useState(() => loadMyList())
+  const [toast, setToast] = useState('')
 
   useEffect(() => {
     if (getConsent() === 'granted') initAnalytics()
@@ -56,13 +58,19 @@ export default function App() {
 
   const toggleList = useCallback((imdbId) => {
     setMyList((prev) => {
-      const next = prev.includes(imdbId)
-        ? prev.filter((id) => id !== imdbId)
-        : [...prev, imdbId]
+      const adding = !prev.includes(imdbId)
+      const next = adding ? [...prev, imdbId] : prev.filter((id) => id !== imdbId)
       saveMyList(next)
+      const movie = movies.find((m) => m.imdb_id === imdbId)
+      setToast(
+        adding
+          ? `${movie?.title ?? 'Film'} added to My List`
+          : `${movie?.title ?? 'Film'} removed from My List`,
+      )
+      window.setTimeout(() => setToast(''), 2600)
       return next
     })
-  }, [])
+  }, [movies])
 
   const openMovie = useCallback((movie) => setSelected(movie), [])
   const closeModal = useCallback(() => setSelected(null), [])
@@ -73,8 +81,21 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
+  const handleBrowse = (rowId) => {
+    setView('home')
+    setSearch('')
+    window.requestAnimationFrame(() => {
+      document.getElementById(rowId)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    })
+  }
+
   if (loading) {
-    return <div className="app app--loading">Loading HN’s greatest hits…</div>
+    return (
+      <div className="app app--loading">
+        <div className="loader" aria-hidden />
+        <p>Loading HN’s greatest hits…</p>
+      </div>
+    )
   }
 
   if (error) {
@@ -94,7 +115,13 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header search={search} onSearch={setSearch} view={view} onNav={handleNav} />
+      <Header
+        search={search}
+        onSearch={setSearch}
+        view={view}
+        onNav={handleNav}
+        onBrowse={handleBrowse}
+      />
 
       {showSearch ? (
         <section className="search-results" aria-label="Search results">
@@ -103,7 +130,13 @@ export default function App() {
           </h1>
           <div className="search-grid">
             {searchResults.map((m) => (
-              <MovieCard key={m.imdb_id} movie={m} onSelect={openMovie} />
+              <MovieCard
+                key={m.imdb_id}
+                movie={m}
+                onSelect={openMovie}
+                onToggleList={toggleList}
+                inList={myList.includes(m.imdb_id)}
+              />
             ))}
           </div>
         </section>
@@ -111,11 +144,22 @@ export default function App() {
         <section className="search-results" aria-label="My list">
           <h1 className="search-results__title">My List</h1>
           {listMovies.length === 0 ? (
-            <p className="row__subtitle">Save films with + My List — stored locally in your browser.</p>
+            <div className="empty-list">
+              <p className="row__subtitle">Save films with + My List — stored locally in your browser.</p>
+              <button type="button" className="btn btn--primary" onClick={() => handleNav('home')}>
+                Browse catalog
+              </button>
+            </div>
           ) : (
             <div className="search-grid">
               {listMovies.map((m) => (
-                <MovieCard key={m.imdb_id} movie={m} onSelect={openMovie} />
+                <MovieCard
+                  key={m.imdb_id}
+                  movie={m}
+                  onSelect={openMovie}
+                  onToggleList={toggleList}
+                  inList
+                />
               ))}
             </div>
           )}
@@ -125,13 +169,18 @@ export default function App() {
           <Hero
             movie={featured}
             inList={featuredInList}
-            onPlay={() => openMovie(featured)}
             onInfo={() => openMovie(featured)}
             onToggleList={() => featured && toggleList(featured.imdb_id)}
           />
-          <main className="main">
+          <main className="main" id="home">
             {rows.map((row) => (
-              <MovieRow key={row.id} row={row} onSelect={openMovie} />
+              <MovieRow
+                key={row.id}
+                row={row}
+                onSelect={openMovie}
+                onToggleList={toggleList}
+                myList={myList}
+              />
             ))}
           </main>
         </>
@@ -162,6 +211,7 @@ export default function App() {
       ) : null}
 
       <ConsentBanner />
+      <Toast message={toast} />
     </div>
   )
 }

@@ -1,7 +1,7 @@
 import { useRef } from 'react'
 import MovieCard from './MovieCard'
 
-export default function MovieRow({ row, onSelect }) {
+export default function MovieRow({ row, onSelect, onToggleList, myList }) {
   const trackRef = useRef(null)
 
   const scroll = (dir) => {
@@ -12,7 +12,7 @@ export default function MovieRow({ row, onSelect }) {
   }
 
   return (
-    <section className="row" aria-labelledby={`row-${row.id}`}>
+    <section className="row" id={`row-${row.id}`} aria-labelledby={`row-${row.id}`}>
       <div className="row__head">
         <div>
           <h2 className="row__title" id={`row-${row.id}`}>
@@ -27,7 +27,13 @@ export default function MovieRow({ row, onSelect }) {
         </button>
         <div className="row__track" ref={trackRef}>
           {row.items.map((movie) => (
-            <MovieCard key={movie.imdb_id} movie={movie} onSelect={onSelect} />
+            <MovieCard
+              key={movie.imdb_id}
+              movie={movie}
+              onSelect={onSelect}
+              onToggleList={onToggleList}
+              inList={myList?.includes(movie.imdb_id)}
+            />
           ))}
         </div>
         <button type="button" className="row__arrow row__arrow--right" aria-label="Scroll right" onClick={() => scroll(1)}>

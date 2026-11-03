@@ -27,9 +27,11 @@ def fetch_poster(title: str, year: int) -> str:
                 data = json.loads(resp.read())
             if data.get("type") == "disambiguation":
                 continue
+            orig = data.get("originalimage", {}).get("source", "")
             thumb = data.get("thumbnail", {}).get("source", "")
-            if thumb:
-                return thumb.split("?")[0]
+            best = orig or thumb
+            if best:
+                return best.split("?")[0]
         except OSError:
             continue
     return ""
