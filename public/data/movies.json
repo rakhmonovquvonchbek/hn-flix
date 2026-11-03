@@ -1,0 +1,5058 @@
+{
+  "movies": [
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "imdb_id": "tt0133093",
+      "imdb_rating": 8.7,
+      "hn_recommending_users": 235,
+      "hn_threads": 271,
+      "hn_years_spanned": 19,
+      "rec_score": 458.06,
+      "hidden_gem_score": 90.86,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Matrix.png",
+      "tagline": "235 HN recommenders \u00b7 271 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Blade Runner",
+      "year": 1982,
+      "imdb_id": "tt0083658",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 198,
+      "hn_threads": 226,
+      "hn_years_spanned": 19,
+      "rec_score": 420.97,
+      "hidden_gem_score": 81.31,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9f/Blade_Runner_%281982_poster%29.png",
+      "tagline": "198 HN recommenders \u00b7 226 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Hackers",
+      "year": 1995,
+      "imdb_id": "tt0113243",
+      "imdb_rating": 6.2,
+      "hn_recommending_users": 172,
+      "hn_threads": 238,
+      "hn_years_spanned": 19,
+      "rec_score": 348.47,
+      "hidden_gem_score": 82.97,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Iain Softley"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/Hackersposter.jpg",
+      "tagline": "172 HN recommenders \u00b7 238 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Primer",
+      "year": 2004,
+      "imdb_id": "tt0390384",
+      "imdb_rating": 6.7,
+      "hn_recommending_users": 158,
+      "hn_threads": 120,
+      "hn_years_spanned": 19,
+      "rec_score": 341.94,
+      "hidden_gem_score": 109.18,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hackers-crypto",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Shane Carruth"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Primer_%282004_film_poster%29.jpg",
+      "tagline": "158 HN recommenders \u00b7 120 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "imdb_id": "tt0816692",
+      "imdb_rating": 8.7,
+      "hn_recommending_users": 154,
+      "hn_threads": 158,
+      "hn_years_spanned": 13,
+      "rec_score": 311.66,
+      "hidden_gem_score": 60.62,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+      "tagline": "154 HN recommenders \u00b7 158 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "imdb_id": "tt1375666",
+      "imdb_rating": 8.8,
+      "hn_recommending_users": 151,
+      "hn_threads": 146,
+      "hn_years_spanned": 17,
+      "rec_score": 307.97,
+      "hidden_gem_score": 59.78,
+      "genres": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hackers-crypto",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+      "tagline": "151 HN recommenders \u00b7 146 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Sneakers",
+      "year": 1992,
+      "imdb_id": "tt0105435",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 145,
+      "hn_threads": 125,
+      "hn_years_spanned": 18,
+      "rec_score": 307.88,
+      "hidden_gem_score": 118.24,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Phil Alden Robinson"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/aa/Sneakersmovie.jpg",
+      "tagline": "145 HN recommenders \u00b7 125 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Jurassic Park",
+      "year": 1993,
+      "imdb_id": "tt0107290",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 145,
+      "hn_threads": 129,
+      "hn_years_spanned": 19,
+      "rec_score": 277.18,
+      "hidden_gem_score": 54.74,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+      "tagline": "145 HN recommenders \u00b7 129 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Arrival",
+      "year": 2016,
+      "imdb_id": "tt2543164",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 113,
+      "hn_threads": 157,
+      "hn_years_spanned": 12,
+      "rec_score": 266.0,
+      "hidden_gem_score": 50.19,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg",
+      "tagline": "113 HN recommenders \u00b7 157 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Gattaca",
+      "year": 1997,
+      "imdb_id": "tt0119177",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 109,
+      "hn_threads": 153,
+      "hn_years_spanned": 20,
+      "rec_score": 253.27,
+      "hidden_gem_score": 58.06,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "competence-porn"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/de/Gattaca_poster.jpg",
+      "tagline": "109 HN recommenders \u00b7 153 threads \u00b7 20 years on HN"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "imdb_id": "tt0120737",
+      "imdb_rating": 8.9,
+      "hn_recommending_users": 128,
+      "hn_threads": 138,
+      "hn_years_spanned": 19,
+      "rec_score": 249.4,
+      "hidden_gem_score": 49.0,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fb/Lord_Rings_Fellowship_Ring.jpg",
+      "tagline": "128 HN recommenders \u00b7 138 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Stalker",
+      "year": 1979,
+      "imdb_id": "tt0079944",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 112,
+      "hn_threads": 70,
+      "hn_years_spanned": 15,
+      "rec_score": 243.81,
+      "hidden_gem_score": 71.97,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d4/Stalker_poster.jpg",
+      "tagline": "112 HN recommenders \u00b7 70 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Idiocracy",
+      "year": 2006,
+      "imdb_id": "tt0387808",
+      "imdb_rating": 6.5,
+      "hn_recommending_users": 121,
+      "hn_threads": 352,
+      "hn_years_spanned": 20,
+      "rec_score": 236.6,
+      "hidden_gem_score": 65.42,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Mike Judge"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6b/Idiocracy_movie_poster.jpg",
+      "tagline": "121 HN recommenders \u00b7 352 threads \u00b7 20 years on HN"
+    },
+    {
+      "title": "Office Space",
+      "year": 1999,
+      "imdb_id": "tt0151804",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 121,
+      "hn_threads": 238,
+      "hn_years_spanned": 19,
+      "rec_score": 236.28,
+      "hidden_gem_score": 59.82,
+      "genres": [
+        "Comedy"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Mike Judge"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8e/Office_space_poster.jpg",
+      "tagline": "121 HN recommenders \u00b7 238 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Oppenheimer",
+      "year": 2023,
+      "imdb_id": "tt15398776",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 144,
+      "hn_threads": 100,
+      "hn_years_spanned": 8,
+      "rec_score": 233.25,
+      "hidden_gem_score": 53.76,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "world-auteur",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+      "tagline": "144 HN recommenders \u00b7 100 threads \u00b7 8 years on HN"
+    },
+    {
+      "title": "Tron",
+      "year": 1982,
+      "imdb_id": "tt0084827",
+      "imdb_rating": 6.7,
+      "hn_recommending_users": 114,
+      "hn_threads": 95,
+      "hn_years_spanned": 18,
+      "rec_score": 228.24,
+      "hidden_gem_score": 70.29,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Steven Lisberger"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/17/Tron_poster.jpg",
+      "tagline": "114 HN recommenders \u00b7 95 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Solaris",
+      "year": 1972,
+      "imdb_id": "tt0069293",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 99,
+      "hn_threads": 69,
+      "hn_years_spanned": 19,
+      "rec_score": 217.06,
+      "hidden_gem_score": 72.55,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/54/Solyaris_ussr_poster.jpg",
+      "tagline": "99 HN recommenders \u00b7 69 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Moon",
+      "year": 2009,
+      "imdb_id": "tt1182345",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 99,
+      "hn_threads": 109,
+      "hn_years_spanned": 17,
+      "rec_score": 204.61,
+      "hidden_gem_score": 46.84,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "competence-porn"
+      ],
+      "directors": [
+        "Duncan Jones"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Moon_%282009_film%29.jpg",
+      "tagline": "99 HN recommenders \u00b7 109 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "imdb_id": "tt0062622",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 86,
+      "hn_threads": 139,
+      "hn_years_spanned": 18,
+      "rec_score": 192.57,
+      "hidden_gem_score": 37.32,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi",
+        "competence-porn"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/11/2001_A_Space_Odyssey_%281968%29.png",
+      "tagline": "86 HN recommenders \u00b7 139 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Contact",
+      "year": 1997,
+      "imdb_id": "tt0118884",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 84,
+      "hn_threads": 137,
+      "hn_years_spanned": 20,
+      "rec_score": 186.88,
+      "hidden_gem_score": 44.6,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "world-auteur"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "poster": "",
+      "tagline": "84 HN recommenders \u00b7 137 threads \u00b7 20 years on HN"
+    },
+    {
+      "title": "Pirates of Silicon Valley",
+      "year": 1999,
+      "imdb_id": "tt0168122",
+      "imdb_rating": 7.2,
+      "hn_recommending_users": 86,
+      "hn_threads": 81,
+      "hn_years_spanned": 20,
+      "rec_score": 181.55,
+      "hidden_gem_score": 91.6,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "competence-porn",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Dorine Blunk",
+        "Martyn Burke"
+      ],
+      "poster": "",
+      "tagline": "86 HN recommenders \u00b7 81 threads \u00b7 20 years on HN"
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "imdb_id": "tt0245429",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 81,
+      "hn_threads": 50,
+      "hn_years_spanned": 17,
+      "rec_score": 178.79,
+      "hidden_gem_score": 34.02,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "",
+      "tagline": "81 HN recommenders \u00b7 50 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "imdb_id": "tt0137523",
+      "imdb_rating": 8.8,
+      "hn_recommending_users": 91,
+      "hn_threads": 107,
+      "hn_years_spanned": 19,
+      "rec_score": 178.45,
+      "hidden_gem_score": 35.0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "systemic-finance",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg",
+      "tagline": "91 HN recommenders \u00b7 107 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "imdb_id": "tt0903624",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 90,
+      "hn_threads": 83,
+      "hn_years_spanned": 16,
+      "rec_score": 178.19,
+      "hidden_gem_score": 34.94,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Peter Jackson"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg",
+      "tagline": "90 HN recommenders \u00b7 83 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "imdb_id": "tt0468569",
+      "imdb_rating": 9.1,
+      "hn_recommending_users": 84,
+      "hn_threads": 83,
+      "hn_years_spanned": 18,
+      "rec_score": 172.26,
+      "hidden_gem_score": 33.39,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+      "tagline": "84 HN recommenders \u00b7 83 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "WarGames",
+      "year": 1983,
+      "imdb_id": "tt0086567",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 83,
+      "hn_threads": 144,
+      "hn_years_spanned": 19,
+      "rec_score": 170.54,
+      "hidden_gem_score": 55.17,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "John Badham"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/29/Wargames.jpg",
+      "tagline": "83 HN recommenders \u00b7 144 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Citizen Kane",
+      "year": 1941,
+      "imdb_id": "tt0033467",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 66,
+      "hn_threads": 78,
+      "hn_years_spanned": 18,
+      "rec_score": 166.15,
+      "hidden_gem_score": 34.22,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Orson Welles"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/330px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg",
+      "tagline": "66 HN recommenders \u00b7 78 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Martian",
+      "year": 2015,
+      "imdb_id": "tt3659388",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 79,
+      "hn_threads": 92,
+      "hn_years_spanned": 12,
+      "rec_score": 162.2,
+      "hidden_gem_score": 31.43,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg",
+      "tagline": "79 HN recommenders \u00b7 92 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "imdb_id": "tt0068646",
+      "imdb_rating": 9.2,
+      "hn_recommending_users": 73,
+      "hn_threads": 85,
+      "hn_years_spanned": 18,
+      "rec_score": 151.88,
+      "hidden_gem_score": 29.33,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg",
+      "tagline": "73 HN recommenders \u00b7 85 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Apocalypse Now",
+      "year": 1979,
+      "imdb_id": "tt0078788",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 67,
+      "hn_threads": 76,
+      "hn_years_spanned": 16,
+      "rec_score": 148.87,
+      "hidden_gem_score": 28.89,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "War"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "obsession-docs",
+        "world-auteur"
+      ],
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Apocalypse_Now_poster.jpg",
+      "tagline": "67 HN recommenders \u00b7 76 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Top Gun",
+      "year": 1986,
+      "imdb_id": "tt0092099",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 70,
+      "hn_threads": 66,
+      "hn_years_spanned": 15,
+      "rec_score": 146.72,
+      "hidden_gem_score": 30.65,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Tony Scott"
+      ],
+      "poster": "",
+      "tagline": "70 HN recommenders \u00b7 66 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Gravity",
+      "year": 2013,
+      "imdb_id": "tt1454468",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 75,
+      "hn_threads": 94,
+      "hn_years_spanned": 16,
+      "rec_score": 146.54,
+      "hidden_gem_score": 28.92,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Alfonso Cuar\u00f3n"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/Gravity_Poster.jpg",
+      "tagline": "75 HN recommenders \u00b7 94 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "year": 1964,
+      "imdb_id": "tt0057012",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 62,
+      "hn_threads": 95,
+      "hn_years_spanned": 16,
+      "rec_score": 143.19,
+      "hidden_gem_score": 29.31,
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "world-auteur",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "",
+      "tagline": "62 HN recommenders \u00b7 95 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "imdb_id": "tt0113568",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 67,
+      "hn_threads": 52,
+      "hn_years_spanned": 17,
+      "rec_score": 141.56,
+      "hidden_gem_score": 40.65,
+      "genres": [
+        "Action",
+        "Animation",
+        "Crime"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "world-auteur"
+      ],
+      "directors": [
+        "Mamoru Oshii"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Ghostintheshellposter.jpg",
+      "tagline": "67 HN recommenders \u00b7 52 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Starship Troopers",
+      "year": 1997,
+      "imdb_id": "tt0120201",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 65,
+      "hn_threads": 64,
+      "hn_years_spanned": 17,
+      "rec_score": 132.27,
+      "hidden_gem_score": 31.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/df/Starship_Troopers_-_movie_poster.jpg",
+      "tagline": "65 HN recommenders \u00b7 64 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Ex Machina",
+      "year": 2014,
+      "imdb_id": "tt0470752",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 61,
+      "hn_threads": 72,
+      "hn_years_spanned": 12,
+      "rec_score": 131.24,
+      "hidden_gem_score": 26.49,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/ba/Ex-machina-uk-poster.jpg/330px-Ex-machina-uk-poster.jpg",
+      "tagline": "61 HN recommenders \u00b7 72 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Minority Report",
+      "year": 2002,
+      "imdb_id": "tt0181689",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 62,
+      "hn_threads": 120,
+      "hn_years_spanned": 19,
+      "rec_score": 130.03,
+      "hidden_gem_score": 26.57,
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hackers-crypto",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Minority_Report_Poster.jpg",
+      "tagline": "62 HN recommenders \u00b7 120 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "imdb_id": "tt0405094",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 50,
+      "hn_threads": 73,
+      "hn_years_spanned": 17,
+      "rec_score": 129.86,
+      "hidden_gem_score": 27.22,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "world-auteur",
+        "competence-porn"
+      ],
+      "directors": [
+        "Florian Henckel von Donnersmarck"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9f/Leben_der_anderen.jpg",
+      "tagline": "50 HN recommenders \u00b7 73 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Iron Man",
+      "year": 2008,
+      "imdb_id": "tt0371746",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 63,
+      "hn_threads": 94,
+      "hn_years_spanned": 18,
+      "rec_score": 127.37,
+      "hidden_gem_score": 24.78,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Jon Favreau"
+      ],
+      "poster": "",
+      "tagline": "63 HN recommenders \u00b7 94 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Threads",
+      "year": 1984,
+      "imdb_id": "tt0090163",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 56,
+      "hn_threads": 66,
+      "hn_years_spanned": 16,
+      "rec_score": 127.02,
+      "hidden_gem_score": 61.41,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Mick Jackson"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/35/Threadsmoviecover.jpg",
+      "tagline": "56 HN recommenders \u00b7 66 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Grave of the Fireflies",
+      "year": 1988,
+      "imdb_id": "tt0095327",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 55,
+      "hn_threads": 36,
+      "hn_years_spanned": 12,
+      "rec_score": 126.76,
+      "hidden_gem_score": 28.11,
+      "genres": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Isao Takahata"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grave_of_the_Fireflies_Japanese_poster.jpg",
+      "tagline": "55 HN recommenders \u00b7 36 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "RoboCop",
+      "year": 1987,
+      "imdb_id": "tt0093870",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 54,
+      "hn_threads": 73,
+      "hn_years_spanned": 18,
+      "rec_score": 119.2,
+      "hidden_gem_score": 28.56,
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/16/RoboCop_%281987%29_theatrical_poster.jpg",
+      "tagline": "54 HN recommenders \u00b7 73 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Big Short",
+      "year": 2015,
+      "imdb_id": "tt1596363",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 47,
+      "hn_threads": 124,
+      "hn_years_spanned": 12,
+      "rec_score": 118.35,
+      "hidden_gem_score": 23.86,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Adam McKay"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/16/The_Big_Short_%282015_film_poster%29.png",
+      "tagline": "47 HN recommenders \u00b7 124 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "imdb_id": "tt0209144",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 53,
+      "hn_threads": 82,
+      "hn_years_spanned": 18,
+      "rec_score": 117.48,
+      "hidden_gem_score": 22.33,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hackers-crypto",
+        "world-auteur"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c7/Memento_poster.jpg",
+      "tagline": "53 HN recommenders \u00b7 82 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Real Genius",
+      "year": 1985,
+      "imdb_id": "tt0089886",
+      "imdb_rating": 6.9,
+      "hn_recommending_users": 55,
+      "hn_threads": 60,
+      "hn_years_spanned": 17,
+      "rec_score": 116.53,
+      "hidden_gem_score": 51.61,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Martha Coolidge"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/25/Real_genius.jpg",
+      "tagline": "55 HN recommenders \u00b7 60 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "imdb_id": "tt0111161",
+      "imdb_rating": 9.3,
+      "hn_recommending_users": 54,
+      "hn_threads": 53,
+      "hn_years_spanned": 19,
+      "rec_score": 116.27,
+      "hidden_gem_score": 22.26,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "world-auteur",
+        "competence-porn"
+      ],
+      "directors": [
+        "Frank Darabont"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "tagline": "54 HN recommenders \u00b7 53 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Dark City",
+      "year": 1998,
+      "imdb_id": "tt0118929",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 51,
+      "hn_threads": 45,
+      "hn_years_spanned": 13,
+      "rec_score": 111.11,
+      "hidden_gem_score": 29.34,
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9c/Dark_City_poster.jpg",
+      "tagline": "51 HN recommenders \u00b7 45 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The Shining",
+      "year": 1980,
+      "imdb_id": "tt0081505",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 50,
+      "hn_threads": 48,
+      "hn_years_spanned": 17,
+      "rec_score": 110.85,
+      "hidden_gem_score": 21.07,
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+      "tagline": "50 HN recommenders \u00b7 48 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "year": 1962,
+      "imdb_id": "tt0056172",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 55,
+      "hn_threads": 50,
+      "hn_years_spanned": 17,
+      "rec_score": 110.68,
+      "hidden_gem_score": 26.41,
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "David Lean"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Te_lawrence.jpg/330px-Te_lawrence.jpg",
+      "tagline": "55 HN recommenders \u00b7 50 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Barry Lyndon",
+      "year": 1975,
+      "imdb_id": "tt0072684",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 48,
+      "hn_threads": 38,
+      "hn_years_spanned": 14,
+      "rec_score": 108.88,
+      "hidden_gem_score": 29.2,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/ee/Barry_Lyndon_A.jpg",
+      "tagline": "48 HN recommenders \u00b7 38 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Toy Story",
+      "year": 1995,
+      "imdb_id": "tt0114709",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 53,
+      "hn_threads": 79,
+      "hn_years_spanned": 18,
+      "rec_score": 107.24,
+      "hidden_gem_score": 20.86,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "competence-porn",
+        "systemic-finance"
+      ],
+      "directors": [
+        "John Lasseter"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+      "tagline": "53 HN recommenders \u00b7 79 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Back to the Future",
+      "year": 1985,
+      "imdb_id": "tt0088763",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 54,
+      "hn_threads": 72,
+      "hn_years_spanned": 18,
+      "rec_score": 106.04,
+      "hidden_gem_score": 20.79,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "competence-porn"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
+      "tagline": "54 HN recommenders \u00b7 72 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Die Hard",
+      "year": 1988,
+      "imdb_id": "tt0095016",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 54,
+      "hn_threads": 68,
+      "hn_years_spanned": 19,
+      "rec_score": 104.58,
+      "hidden_gem_score": 20.58,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "John McTiernan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg",
+      "tagline": "54 HN recommenders \u00b7 68 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "imdb_id": "tt0103064",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 52,
+      "hn_threads": 77,
+      "hn_years_spanned": 14,
+      "rec_score": 102.6,
+      "hidden_gem_score": 20.09,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "systemic-finance"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/5e/Terminator_2-Judgment_Day.png",
+      "tagline": "52 HN recommenders \u00b7 77 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "imdb_id": "tt1798709",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 49,
+      "hn_threads": 168,
+      "hn_years_spanned": 13,
+      "rec_score": 100.36,
+      "hidden_gem_score": 20.06,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Spike Jonze"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg",
+      "tagline": "49 HN recommenders \u00b7 168 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Ender's Game",
+      "year": 2013,
+      "imdb_id": "tt1731141",
+      "imdb_rating": 6.6,
+      "hn_recommending_users": 48,
+      "hn_threads": 39,
+      "hn_years_spanned": 13,
+      "rec_score": 100.1,
+      "hidden_gem_score": 25.54,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Gavin Hood"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Ender%27s_Game_poster.jpg",
+      "tagline": "48 HN recommenders \u00b7 39 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Margin Call",
+      "year": 2011,
+      "imdb_id": "tt1615147",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 40,
+      "hn_threads": 76,
+      "hn_years_spanned": 13,
+      "rec_score": 99.5,
+      "hidden_gem_score": 28.07,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "J.C. Chandor"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/62/Margin_Call.jpg",
+      "tagline": "40 HN recommenders \u00b7 76 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "12 Monkeys",
+      "year": 1995,
+      "imdb_id": "tt0114746",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 46,
+      "hn_threads": 37,
+      "hn_years_spanned": 16,
+      "rec_score": 98.13,
+      "hidden_gem_score": 19.63,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "world-auteur"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Twelve_monkeysmp.jpg",
+      "tagline": "46 HN recommenders \u00b7 37 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Metropolis",
+      "year": 1927,
+      "imdb_id": "tt0017136",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 45,
+      "hn_threads": 56,
+      "hn_years_spanned": 17,
+      "rec_score": 97.87,
+      "hidden_gem_score": 26.76,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Fritz Lang"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/97/Metropolis_%28German_three-sheet_poster%29.jpg/330px-Metropolis_%28German_three-sheet_poster%29.jpg",
+      "tagline": "45 HN recommenders \u00b7 56 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Apollo 13",
+      "year": 1995,
+      "imdb_id": "tt0112384",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 45,
+      "hn_threads": 69,
+      "hn_years_spanned": 19,
+      "rec_score": 94.94,
+      "hidden_gem_score": 22.43,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "competence-porn",
+        "obsession-docs",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Ron Howard"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Apollo_13-insignia.png/330px-Apollo_13-insignia.png",
+      "tagline": "45 HN recommenders \u00b7 69 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Total Recall",
+      "year": 1990,
+      "imdb_id": "tt0100802",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 45,
+      "hn_threads": 66,
+      "hn_years_spanned": 17,
+      "rec_score": 94.94,
+      "hidden_gem_score": 21.74,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Paul Verhoeven"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Total_Recall_%281990_film%29_poster.jpg",
+      "tagline": "45 HN recommenders \u00b7 66 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Dune",
+      "year": 2021,
+      "imdb_id": "tt1160419",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 50,
+      "hn_threads": 45,
+      "hn_years_spanned": 15,
+      "rec_score": 94.77,
+      "hidden_gem_score": 18.76,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg",
+      "tagline": "50 HN recommenders \u00b7 45 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Brazil",
+      "year": 1985,
+      "imdb_id": "tt0088846",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 43,
+      "hn_threads": 141,
+      "hn_years_spanned": 19,
+      "rec_score": 94.43,
+      "hidden_gem_score": 25.06,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Terry Gilliam"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e9/Brazil_%281985_film%29_poster.jpg/330px-Brazil_%281985_film%29_poster.jpg",
+      "tagline": "43 HN recommenders \u00b7 141 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "imdb_id": "tt0110912",
+      "imdb_rating": 8.8,
+      "hn_recommending_users": 44,
+      "hn_threads": 69,
+      "hn_years_spanned": 17,
+      "rec_score": 93.22,
+      "hidden_gem_score": 17.92,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "world-auteur",
+        "competence-porn"
+      ],
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+      "tagline": "44 HN recommenders \u00b7 69 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Tenet",
+      "year": 2020,
+      "imdb_id": "tt6723592",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 52,
+      "hn_threads": 59,
+      "hn_years_spanned": 7,
+      "rec_score": 93.15,
+      "hidden_gem_score": 22.33,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg",
+      "tagline": "52 HN recommenders \u00b7 59 threads \u00b7 7 years on HN"
+    },
+    {
+      "title": "The Social Network",
+      "year": 2010,
+      "imdb_id": "tt1285016",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 41,
+      "hn_threads": 77,
+      "hn_years_spanned": 17,
+      "rec_score": 92.45,
+      "hidden_gem_score": 17.74,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "competence-porn",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "David Fincher"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Social_Network_film_poster.png",
+      "tagline": "41 HN recommenders \u00b7 77 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "The Fifth Element",
+      "year": 1997,
+      "imdb_id": "tt0119116",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 43,
+      "hn_threads": 45,
+      "hn_years_spanned": 16,
+      "rec_score": 91.5,
+      "hidden_gem_score": 19.14,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Luc Besson"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/65/Fifth_element_poster_%281997%29.jpg",
+      "tagline": "43 HN recommenders \u00b7 45 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "The Man from Earth",
+      "year": 2007,
+      "imdb_id": "tt0756683",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 39,
+      "hn_threads": 45,
+      "hn_years_spanned": 18,
+      "rec_score": 89.01,
+      "hidden_gem_score": 23.45,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "vibes": [
+        "puzzle-box"
+      ],
+      "directors": [
+        "Richard Schenkman"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/3b/The_Man_from_Earth.png",
+      "tagline": "39 HN recommenders \u00b7 45 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Wizard of Oz",
+      "year": 1939,
+      "imdb_id": "tt0032138",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 44,
+      "hn_threads": 56,
+      "hn_years_spanned": 17,
+      "rec_score": 88.84,
+      "hidden_gem_score": 19.51,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Victor Fleming",
+        "George Cukor",
+        "Norman Taurog"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Wizard_of_oz_movie_poster.jpg/330px-Wizard_of_oz_movie_poster.jpg",
+      "tagline": "44 HN recommenders \u00b7 56 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "imdb_id": "tt0076759",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 43,
+      "hn_threads": 79,
+      "hn_years_spanned": 17,
+      "rec_score": 88.58,
+      "hidden_gem_score": 17.15,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "George Lucas"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg",
+      "tagline": "43 HN recommenders \u00b7 79 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Black Panther",
+      "year": 2018,
+      "imdb_id": "tt1825683",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 53,
+      "hn_threads": 43,
+      "hn_years_spanned": 9,
+      "rec_score": 88.17,
+      "hidden_gem_score": 19.66,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Ryan Coogler"
+      ],
+      "poster": "",
+      "tagline": "53 HN recommenders \u00b7 43 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "Princess Mononoke",
+      "year": 1997,
+      "imdb_id": "tt0119698",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 39,
+      "hn_threads": 29,
+      "hn_years_spanned": 13,
+      "rec_score": 87.55,
+      "hidden_gem_score": 18.55,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Princess_Mononoke_Japanese_poster.png",
+      "tagline": "39 HN recommenders \u00b7 29 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Heat",
+      "year": 1995,
+      "imdb_id": "tt0113277",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 41,
+      "hn_threads": 47,
+      "hn_years_spanned": 14,
+      "rec_score": 86.6,
+      "hidden_gem_score": 16.92,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Michael Mann"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6c/Heatposter.jpg",
+      "tagline": "41 HN recommenders \u00b7 47 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Children of Men",
+      "year": 2006,
+      "imdb_id": "tt0206634",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 37,
+      "hn_threads": 47,
+      "hn_years_spanned": 16,
+      "rec_score": 85.57,
+      "hidden_gem_score": 17.39,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Alfonso Cuar\u00f3n"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fc/Children_of_men_ver4.jpg/330px-Children_of_men_ver4.jpg",
+      "tagline": "37 HN recommenders \u00b7 47 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "WALL\u00b7E",
+      "year": 2008,
+      "imdb_id": "tt0910970",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 39,
+      "hn_threads": 84,
+      "hn_years_spanned": 19,
+      "rec_score": 84.62,
+      "hidden_gem_score": 16.17,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "poster": "",
+      "tagline": "39 HN recommenders \u00b7 84 threads \u00b7 19 years on HN"
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "imdb_id": "tt6751668",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 43,
+      "hn_threads": 55,
+      "hn_years_spanned": 9,
+      "rec_score": 83.24,
+      "hidden_gem_score": 17.78,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Bong Joon Ho"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png",
+      "tagline": "43 HN recommenders \u00b7 55 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "The Princess Bride",
+      "year": 1987,
+      "imdb_id": "tt0093779",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 38,
+      "hn_threads": 55,
+      "hn_years_spanned": 18,
+      "rec_score": 82.9,
+      "hidden_gem_score": 17.69,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Rob Reiner"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/db/Princess_bride.jpg",
+      "tagline": "38 HN recommenders \u00b7 55 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "year": 1970,
+      "imdb_id": "tt0064177",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 39,
+      "hn_threads": 52,
+      "hn_years_spanned": 14,
+      "rec_score": 81.7,
+      "hidden_gem_score": 50.77,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Joseph Sargent"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c4/Colossus_the_forbin_project_movie_poster.jpg",
+      "tagline": "39 HN recommenders \u00b7 52 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "imdb_id": "tt1392190",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 45,
+      "hn_threads": 34,
+      "hn_years_spanned": 10,
+      "rec_score": 81.52,
+      "hidden_gem_score": 17.22,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "George Miller"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg",
+      "tagline": "45 HN recommenders \u00b7 34 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "Tron: Legacy",
+      "year": 2010,
+      "imdb_id": "tt1104001",
+      "imdb_rating": 6.8,
+      "hn_recommending_users": 37,
+      "hn_threads": 44,
+      "hn_years_spanned": 17,
+      "rec_score": 81.18,
+      "hidden_gem_score": 18.37,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "hard-scifi",
+        "competence-porn"
+      ],
+      "directors": [
+        "Joseph Kosinski"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c2/Tron_Legacy_poster.jpg",
+      "tagline": "37 HN recommenders \u00b7 44 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "imdb_id": "tt1856101",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 37,
+      "hn_threads": 42,
+      "hn_years_spanned": 10,
+      "rec_score": 80.96,
+      "hidden_gem_score": 16.7,
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png",
+      "tagline": "37 HN recommenders \u00b7 42 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "Groundhog Day",
+      "year": 1993,
+      "imdb_id": "tt0107048",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 39,
+      "hn_threads": 53,
+      "hn_years_spanned": 16,
+      "rec_score": 80.24,
+      "hidden_gem_score": 16.0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Harold Ramis"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b1/Groundhog_Day_%28movie_poster%29.jpg",
+      "tagline": "39 HN recommenders \u00b7 53 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Akira",
+      "year": 1988,
+      "imdb_id": "tt0094625",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 38,
+      "hn_threads": 32,
+      "hn_years_spanned": 13,
+      "rec_score": 79.98,
+      "hidden_gem_score": 21.16,
+      "genres": [
+        "Action",
+        "Animation",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Katsuhiro Otomo"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/5d/AKIRA_%281988_poster%29.jpg",
+      "tagline": "38 HN recommenders \u00b7 32 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "District 9",
+      "year": 2009,
+      "imdb_id": "tt1136608",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 36,
+      "hn_threads": 37,
+      "hn_years_spanned": 13,
+      "rec_score": 78.0,
+      "hidden_gem_score": 15.3,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Neill Blomkamp"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d7/District_nine_ver2.jpg",
+      "tagline": "36 HN recommenders \u00b7 37 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Rogue One: A Star Wars Story",
+      "year": 2016,
+      "imdb_id": "tt3748528",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 36,
+      "hn_threads": 45,
+      "hn_years_spanned": 10,
+      "rec_score": 75.28,
+      "hidden_gem_score": 15.71,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Gareth Edwards"
+      ],
+      "poster": "",
+      "tagline": "36 HN recommenders \u00b7 45 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "Enemy of the State",
+      "year": 1998,
+      "imdb_id": "tt0120660",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 33,
+      "hn_threads": 59,
+      "hn_years_spanned": 14,
+      "rec_score": 74.3,
+      "hidden_gem_score": 18.4,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Tony Scott"
+      ],
+      "poster": "",
+      "tagline": "33 HN recommenders \u00b7 59 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Dark Star",
+      "year": 1974,
+      "imdb_id": "tt0069945",
+      "imdb_rating": 6.1,
+      "hn_recommending_users": 41,
+      "hn_threads": 25,
+      "hn_years_spanned": 10,
+      "rec_score": 73.76,
+      "hidden_gem_score": 25.47,
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "world-auteur",
+        "obsession-docs"
+      ],
+      "directors": [
+        "John Carpenter"
+      ],
+      "poster": "",
+      "tagline": "41 HN recommenders \u00b7 25 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "The Wind Rises",
+      "year": 2013,
+      "imdb_id": "tt2013293",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 34,
+      "hn_threads": 26,
+      "hn_years_spanned": 11,
+      "rec_score": 73.37,
+      "hidden_gem_score": 24.59,
+      "genres": [
+        "Animation",
+        "Biography",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "",
+      "tagline": "34 HN recommenders \u00b7 26 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Mulholland Drive",
+      "year": 2001,
+      "imdb_id": "tt0166924",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 29,
+      "hn_threads": 34,
+      "hn_years_spanned": 15,
+      "rec_score": 71.81,
+      "hidden_gem_score": 15.33,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "David Lynch"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/0f/Mulholland.png",
+      "tagline": "29 HN recommenders \u00b7 34 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Logan's Run",
+      "year": 1976,
+      "imdb_id": "tt0074812",
+      "imdb_rating": 6.8,
+      "hn_recommending_users": 31,
+      "hn_threads": 39,
+      "hn_years_spanned": 15,
+      "rec_score": 70.86,
+      "hidden_gem_score": 26.91,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Michael Anderson"
+      ],
+      "poster": "",
+      "tagline": "31 HN recommenders \u00b7 39 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "year": 2014,
+      "imdb_id": "tt1631867",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 34,
+      "hn_threads": 26,
+      "hn_years_spanned": 9,
+      "rec_score": 68.07,
+      "hidden_gem_score": 14.64,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "world-auteur",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Doug Liman"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/Edge_of_Tomorrow_Poster.jpg",
+      "tagline": "34 HN recommenders \u00b7 26 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "Good Will Hunting",
+      "year": 1997,
+      "imdb_id": "tt0119217",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 34,
+      "hn_threads": 52,
+      "hn_years_spanned": 18,
+      "rec_score": 67.25,
+      "hidden_gem_score": 13.16,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Gus Van Sant"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/52/Good_Will_Hunting.png",
+      "tagline": "34 HN recommenders \u00b7 52 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Independence Day",
+      "year": 1996,
+      "imdb_id": "tt0116629",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 34,
+      "hn_threads": 50,
+      "hn_years_spanned": 18,
+      "rec_score": 65.79,
+      "hidden_gem_score": 13.61,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "competence-porn"
+      ],
+      "directors": [
+        "Roland Emmerich"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Independence_day_movieposter.jpg",
+      "tagline": "34 HN recommenders \u00b7 50 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Big Lebowski",
+      "year": 1998,
+      "imdb_id": "tt0118715",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 33,
+      "hn_threads": 41,
+      "hn_years_spanned": 18,
+      "rec_score": 65.53,
+      "hidden_gem_score": 12.85,
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/35/Biglebowskiposter.jpg",
+      "tagline": "33 HN recommenders \u00b7 41 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "Mad Max",
+      "year": 1979,
+      "imdb_id": "tt0079501",
+      "imdb_rating": 6.8,
+      "hn_recommending_users": 31,
+      "hn_threads": 47,
+      "hn_years_spanned": 15,
+      "rec_score": 65.02,
+      "hidden_gem_score": 16.94,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "puzzle-box"
+      ],
+      "directors": [
+        "George Miller"
+      ],
+      "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Mad_Max_%28logo%29.png/330px-Mad_Max_%28logo%29.png",
+      "tagline": "31 HN recommenders \u00b7 47 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "imdb_id": "tt0482571",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 30,
+      "hn_threads": 34,
+      "hn_years_spanned": 17,
+      "rec_score": 64.76,
+      "hidden_gem_score": 12.39,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",
+      "tagline": "30 HN recommenders \u00b7 34 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "imdb_id": "tt0108052",
+      "imdb_rating": 9.0,
+      "hn_recommending_users": 30,
+      "hn_threads": 41,
+      "hn_years_spanned": 14,
+      "rec_score": 64.76,
+      "hidden_gem_score": 12.39,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "",
+      "tagline": "30 HN recommenders \u00b7 41 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "imdb_id": "tt2911666",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 37,
+      "hn_threads": 48,
+      "hn_years_spanned": 10,
+      "rec_score": 64.64,
+      "hidden_gem_score": 13.95,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Chad Stahelski"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+      "tagline": "37 HN recommenders \u00b7 48 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "The Avengers",
+      "year": 2012,
+      "imdb_id": "tt0848228",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 34,
+      "hn_threads": 42,
+      "hn_years_spanned": 13,
+      "rec_score": 64.33,
+      "hidden_gem_score": 12.74,
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Joss Whedon"
+      ],
+      "poster": "",
+      "tagline": "34 HN recommenders \u00b7 42 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Spider-Man",
+      "year": 2002,
+      "imdb_id": "tt0145487",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 29,
+      "hn_threads": 35,
+      "hn_years_spanned": 14,
+      "rec_score": 63.04,
+      "hidden_gem_score": 12.04,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Sam Raimi"
+      ],
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6c/Spider-Man_%282002_film%29_poster.jpg",
+      "tagline": "29 HN recommenders \u00b7 35 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Dunkirk",
+      "year": 2017,
+      "imdb_id": "tt5013056",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 31,
+      "hn_threads": 36,
+      "hn_years_spanned": 11,
+      "rec_score": 62.75,
+      "hidden_gem_score": 12.7,
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "",
+      "tagline": "31 HN recommenders \u00b7 36 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Amadeus",
+      "year": 1984,
+      "imdb_id": "tt0086879",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 27,
+      "hn_threads": 45,
+      "hn_years_spanned": 17,
+      "rec_score": 62.52,
+      "hidden_gem_score": 13.27,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Milo\u0161 Forman"
+      ],
+      "poster": "",
+      "tagline": "27 HN recommenders \u00b7 45 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "The Congress",
+      "year": 2013,
+      "imdb_id": "tt1821641",
+      "imdb_rating": 6.4,
+      "hn_recommending_users": 30,
+      "hn_threads": 58,
+      "hn_years_spanned": 11,
+      "rec_score": 62.5,
+      "hidden_gem_score": 34.55,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Ari Folman"
+      ],
+      "poster": "",
+      "tagline": "30 HN recommenders \u00b7 58 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Cloud Atlas",
+      "year": 2012,
+      "imdb_id": "tt1371111",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 26,
+      "hn_threads": 30,
+      "hn_years_spanned": 11,
+      "rec_score": 61.5,
+      "hidden_gem_score": 14.05,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Tom Tykwer",
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "poster": "",
+      "tagline": "26 HN recommenders \u00b7 30 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "The Final Cut",
+      "year": 2004,
+      "imdb_id": "tt0364343",
+      "imdb_rating": 6.1,
+      "hn_recommending_users": 28,
+      "hn_threads": 42,
+      "hn_years_spanned": 17,
+      "rec_score": 61.32,
+      "hidden_gem_score": 18.24,
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Omar Naim"
+      ],
+      "poster": "",
+      "tagline": "28 HN recommenders \u00b7 42 threads \u00b7 17 years on HN"
+    },
+    {
+      "title": "Silent Running",
+      "year": 1972,
+      "imdb_id": "tt0067756",
+      "imdb_rating": 6.6,
+      "hn_recommending_users": 29,
+      "hn_threads": 26,
+      "hn_years_spanned": 11,
+      "rec_score": 60.84,
+      "hidden_gem_score": 29.4,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Douglas Trumbull"
+      ],
+      "poster": "",
+      "tagline": "29 HN recommenders \u00b7 26 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "A Clockwork Orange",
+      "year": 1971,
+      "imdb_id": "tt0066921",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 24,
+      "hn_threads": 33,
+      "hn_years_spanned": 13,
+      "rec_score": 60.29,
+      "hidden_gem_score": 11.15,
+      "genres": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 33 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "imdb_id": "tt0050083",
+      "imdb_rating": 9.0,
+      "hn_recommending_users": 24,
+      "hn_threads": 35,
+      "hn_years_spanned": 16,
+      "rec_score": 58.82,
+      "hidden_gem_score": 10.92,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "systemic-finance"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 35 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Lost in Translation",
+      "year": 2003,
+      "imdb_id": "tt0335266",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 23,
+      "hn_threads": 24,
+      "hn_years_spanned": 13,
+      "rec_score": 58.57,
+      "hidden_gem_score": 11.82,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto",
+        "world-auteur"
+      ],
+      "directors": [
+        "Sofia Coppola"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 24 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "imdb_id": "tt0038650",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 26,
+      "hn_threads": 53,
+      "hn_years_spanned": 16,
+      "rec_score": 57.88,
+      "hidden_gem_score": 11.93,
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Frank Capra"
+      ],
+      "poster": "",
+      "tagline": "26 HN recommenders \u00b7 53 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Antitrust",
+      "year": 2001,
+      "imdb_id": "tt0218817",
+      "imdb_rating": 6.1,
+      "hn_recommending_users": 30,
+      "hn_threads": 36,
+      "hn_years_spanned": 16,
+      "rec_score": 57.45,
+      "hidden_gem_score": 18.38,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto",
+        "competence-porn"
+      ],
+      "directors": [
+        "Peter Howitt"
+      ],
+      "poster": "",
+      "tagline": "30 HN recommenders \u00b7 36 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "I, Robot",
+      "year": 2004,
+      "imdb_id": "tt0343818",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 29,
+      "hn_threads": 82,
+      "hn_years_spanned": 18,
+      "rec_score": 57.19,
+      "hidden_gem_score": 11.89,
+      "genres": [
+        "Action",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Alex Proyas"
+      ],
+      "poster": "",
+      "tagline": "29 HN recommenders \u00b7 82 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Andromeda Strain",
+      "year": 1971,
+      "imdb_id": "tt0066769",
+      "imdb_rating": 7.2,
+      "hn_recommending_users": 22,
+      "hn_threads": 33,
+      "hn_years_spanned": 14,
+      "rec_score": 56.85,
+      "hidden_gem_score": 23.57,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Robert Wise"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 33 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Avatar",
+      "year": 2009,
+      "imdb_id": "tt0499549",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 25,
+      "hn_threads": 32,
+      "hn_years_spanned": 13,
+      "rec_score": 56.16,
+      "hidden_gem_score": 10.64,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hard-scifi"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 32 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Soylent Green",
+      "year": 1973,
+      "imdb_id": "tt0070723",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 25,
+      "hn_threads": 62,
+      "hn_years_spanned": 15,
+      "rec_score": 54.92,
+      "hidden_gem_score": 20.65,
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "competence-porn"
+      ],
+      "directors": [
+        "Richard Fleischer"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 62 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Annihilation",
+      "year": 2018,
+      "imdb_id": "tt2798920",
+      "imdb_rating": 6.8,
+      "hn_recommending_users": 28,
+      "hn_threads": 40,
+      "hn_years_spanned": 9,
+      "rec_score": 54.9,
+      "hidden_gem_score": 13.8,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Horror"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Alex Garland"
+      ],
+      "poster": "",
+      "tagline": "28 HN recommenders \u00b7 40 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "Mission: Impossible",
+      "year": 1996,
+      "imdb_id": "tt0117060",
+      "imdb_rating": 7.2,
+      "hn_recommending_users": 30,
+      "hn_threads": 37,
+      "hn_years_spanned": 15,
+      "rec_score": 54.52,
+      "hidden_gem_score": 12.04,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "systemic-finance",
+        "world-auteur"
+      ],
+      "directors": [
+        "Brian De Palma"
+      ],
+      "poster": "",
+      "tagline": "30 HN recommenders \u00b7 37 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Strange Days",
+      "year": 1995,
+      "imdb_id": "tt0114558",
+      "imdb_rating": 7.2,
+      "hn_recommending_users": 24,
+      "hn_threads": 40,
+      "hn_years_spanned": 16,
+      "rec_score": 54.44,
+      "hidden_gem_score": 19.12,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "obsession-docs",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 40 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "In Time",
+      "year": 2011,
+      "imdb_id": "tt1637688",
+      "imdb_rating": 6.7,
+      "hn_recommending_users": 26,
+      "hn_threads": 42,
+      "hn_years_spanned": 15,
+      "rec_score": 53.49,
+      "hidden_gem_score": 11.61,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "poster": "",
+      "tagline": "26 HN recommenders \u00b7 42 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Everything Everywhere All at Once",
+      "year": 2022,
+      "imdb_id": "tt6710474",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 30,
+      "hn_threads": 35,
+      "hn_years_spanned": 5,
+      "rec_score": 53.36,
+      "hidden_gem_score": 13.89,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "vibes": [],
+      "directors": [
+        "Daniel Kwan",
+        "Daniel Scheinert"
+      ],
+      "poster": "",
+      "tagline": "30 HN recommenders \u00b7 35 threads \u00b7 5 years on HN"
+    },
+    {
+      "title": "Ready Player One",
+      "year": 2018,
+      "imdb_id": "tt1677720",
+      "imdb_rating": 7.4,
+      "hn_recommending_users": 25,
+      "hn_threads": 59,
+      "hn_years_spanned": 13,
+      "rec_score": 53.23,
+      "hidden_gem_score": 11.13,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 59 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Project Hail Mary",
+      "year": 2026,
+      "imdb_id": "tt12042730",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 33,
+      "hn_threads": 29,
+      "hn_years_spanned": 6,
+      "rec_score": 52.97,
+      "hidden_gem_score": 13.97,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "poster": "",
+      "tagline": "33 HN recommenders \u00b7 29 threads \u00b7 6 years on HN"
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "imdb_id": "tt0180093",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 23,
+      "hn_threads": 32,
+      "hn_years_spanned": 18,
+      "rec_score": 52.72,
+      "hidden_gem_score": 9.94,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "world-auteur",
+        "competence-porn"
+      ],
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 32 threads \u00b7 18 years on HN"
+    },
+    {
+      "title": "The Thirteenth Floor",
+      "year": 1999,
+      "imdb_id": "tt0139809",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 27,
+      "hn_threads": 37,
+      "hn_years_spanned": 15,
+      "rec_score": 52.29,
+      "hidden_gem_score": 19.3,
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Josef Rusnak"
+      ],
+      "poster": "",
+      "tagline": "27 HN recommenders \u00b7 37 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "year": 2006,
+      "imdb_id": "tt0454921",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 24,
+      "hn_threads": 24,
+      "hn_years_spanned": 13,
+      "rec_score": 51.51,
+      "hidden_gem_score": 10.45,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "vibes": [
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Gabriele Muccino"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 24 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The Truman Show",
+      "year": 1998,
+      "imdb_id": "tt0120382",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 24,
+      "hn_threads": 39,
+      "hn_years_spanned": 12,
+      "rec_score": 51.51,
+      "hidden_gem_score": 9.87,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Peter Weir"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 39 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Andrei Rublev",
+      "year": 1966,
+      "imdb_id": "tt0060107",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 27,
+      "hn_threads": 15,
+      "hn_years_spanned": 8,
+      "rec_score": 51.28,
+      "hidden_gem_score": 23.4,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Andrei Tarkovsky"
+      ],
+      "poster": "",
+      "tagline": "27 HN recommenders \u00b7 15 threads \u00b7 8 years on HN"
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "year": 2011,
+      "imdb_id": "tt0458339",
+      "imdb_rating": 6.9,
+      "hn_recommending_users": 28,
+      "hn_threads": 36,
+      "hn_years_spanned": 14,
+      "rec_score": 51.08,
+      "hidden_gem_score": 10.22,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hackers-crypto",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Joe Johnston"
+      ],
+      "poster": "",
+      "tagline": "28 HN recommenders \u00b7 36 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "imdb_id": "tt0080684",
+      "imdb_rating": 8.7,
+      "hn_recommending_users": 22,
+      "hn_threads": 28,
+      "hn_years_spanned": 14,
+      "rec_score": 51.0,
+      "hidden_gem_score": 9.59,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "competence-porn",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Irvin Kershner"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 28 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "The Tree of Life",
+      "year": 2011,
+      "imdb_id": "tt0478304",
+      "imdb_rating": 6.8,
+      "hn_recommending_users": 22,
+      "hn_threads": 16,
+      "hn_years_spanned": 11,
+      "rec_score": 50.63,
+      "hidden_gem_score": 14.26,
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Terrence Malick"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 16 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "year": 1998,
+      "imdb_id": "tt0120815",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 26,
+      "hn_threads": 38,
+      "hn_years_spanned": 15,
+      "rec_score": 50.57,
+      "hidden_gem_score": 9.94,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "vibes": [
+        "competence-porn"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "",
+      "tagline": "26 HN recommenders \u00b7 38 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "imdb_id": "tt0993846",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 26,
+      "hn_threads": 49,
+      "hn_years_spanned": 12,
+      "rec_score": 50.57,
+      "hidden_gem_score": 9.94,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "poster": "",
+      "tagline": "26 HN recommenders \u00b7 49 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Glengarry Glen Ross",
+      "year": 1992,
+      "imdb_id": "tt0104348",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 25,
+      "hn_threads": 32,
+      "hn_years_spanned": 15,
+      "rec_score": 50.31,
+      "hidden_gem_score": 16.21,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "obsession-docs"
+      ],
+      "directors": [
+        "James Foley"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 32 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "X-Men",
+      "year": 2000,
+      "imdb_id": "tt0120903",
+      "imdb_rating": 7.3,
+      "hn_recommending_users": 25,
+      "hn_threads": 29,
+      "hn_years_spanned": 12,
+      "rec_score": 50.31,
+      "hidden_gem_score": 10.16,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "world-auteur"
+      ],
+      "directors": [
+        "Bryan Singer"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 29 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Alien",
+      "year": 1979,
+      "imdb_id": "tt0078748",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 24,
+      "hn_threads": 33,
+      "hn_years_spanned": 12,
+      "rec_score": 50.05,
+      "hidden_gem_score": 9.66,
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Ridley Scott"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 33 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "year": 2001,
+      "imdb_id": "tt0268978",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 23,
+      "hn_threads": 49,
+      "hn_years_spanned": 16,
+      "rec_score": 49.79,
+      "hidden_gem_score": 9.52,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto",
+        "competence-porn"
+      ],
+      "directors": [
+        "Ron Howard"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 49 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "The Terminator",
+      "year": 1984,
+      "imdb_id": "tt0088247",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 28,
+      "hn_threads": 41,
+      "hn_years_spanned": 16,
+      "rec_score": 49.62,
+      "hidden_gem_score": 10.01,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "systemic-finance",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "poster": "",
+      "tagline": "28 HN recommenders \u00b7 41 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "imdb_id": "tt0120663",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 21,
+      "hn_threads": 21,
+      "hn_years_spanned": 13,
+      "rec_score": 49.28,
+      "hidden_gem_score": 10.61,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 21 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Moneyball",
+      "year": 2011,
+      "imdb_id": "tt1210166",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 21,
+      "hn_threads": 53,
+      "hn_years_spanned": 15,
+      "rec_score": 49.28,
+      "hidden_gem_score": 10.2,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "systemic-finance",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Bennett Miller"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 53 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "year": 2014,
+      "imdb_id": "tt2015381",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 25,
+      "hn_threads": 34,
+      "hn_years_spanned": 13,
+      "rec_score": 48.85,
+      "hidden_gem_score": 9.59,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "James Gunn"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 34 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Howl's Moving Castle",
+      "year": 2004,
+      "imdb_id": "tt0347149",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 22,
+      "hn_threads": 15,
+      "hn_years_spanned": 10,
+      "rec_score": 48.8,
+      "hidden_gem_score": 10.8,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 15 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "Network",
+      "year": 1976,
+      "imdb_id": "tt0074958",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 24,
+      "hn_threads": 35,
+      "hn_years_spanned": 14,
+      "rec_score": 48.59,
+      "hidden_gem_score": 13.85,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "systemic-finance"
+      ],
+      "directors": [
+        "Sidney Lumet"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 35 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Ikiru",
+      "year": 1952,
+      "imdb_id": "tt0044741",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 21,
+      "hn_threads": 21,
+      "hn_years_spanned": 14,
+      "rec_score": 47.82,
+      "hidden_gem_score": 15.87,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 21 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Dark Waters",
+      "year": 2019,
+      "imdb_id": "tt9071322",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 22,
+      "hn_threads": 39,
+      "hn_years_spanned": 8,
+      "rec_score": 47.66,
+      "hidden_gem_score": 17.07,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Todd Haynes"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 39 threads \u00b7 8 years on HN"
+    },
+    {
+      "title": "Forbidden Planet",
+      "year": 1956,
+      "imdb_id": "tt0049223",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 20,
+      "hn_threads": 28,
+      "hn_years_spanned": 14,
+      "rec_score": 47.56,
+      "hidden_gem_score": 18.63,
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Fred M. Wilcox"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 28 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Mortal Kombat",
+      "year": 2021,
+      "imdb_id": "tt0293429",
+      "imdb_rating": 6.1,
+      "hn_recommending_users": 25,
+      "hn_threads": 16,
+      "hn_years_spanned": 11,
+      "rec_score": 47.14,
+      "hidden_gem_score": 8.68,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Simon McQuoid"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 16 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Gone with the Wind",
+      "year": 1939,
+      "imdb_id": "tt0031381",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 24,
+      "hn_threads": 36,
+      "hn_years_spanned": 13,
+      "rec_score": 47.13,
+      "hidden_gem_score": 11.2,
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Victor Fleming"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 36 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "imdb_id": "tt0109830",
+      "imdb_rating": 8.8,
+      "hn_recommending_users": 24,
+      "hn_threads": 34,
+      "hn_years_spanned": 16,
+      "rec_score": 47.13,
+      "hidden_gem_score": 9.24,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "vibes": [
+        "competence-porn"
+      ],
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 34 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Seven Samurai",
+      "year": 1954,
+      "imdb_id": "tt0047478",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 23,
+      "hn_threads": 23,
+      "hn_years_spanned": 14,
+      "rec_score": 46.87,
+      "hidden_gem_score": 10.67,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 23 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "The Lion King",
+      "year": 1994,
+      "imdb_id": "tt0110357",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 23,
+      "hn_threads": 41,
+      "hn_years_spanned": 14,
+      "rec_score": 46.87,
+      "hidden_gem_score": 9.1,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "competence-porn",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 41 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Galaxy Quest",
+      "year": 1999,
+      "imdb_id": "tt0177789",
+      "imdb_rating": 7.4,
+      "hn_recommending_users": 23,
+      "hn_threads": 23,
+      "hn_years_spanned": 13,
+      "rec_score": 46.87,
+      "hidden_gem_score": 13.24,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Dean Parisot"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 23 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Sunshine",
+      "year": 2007,
+      "imdb_id": "tt0448134",
+      "imdb_rating": 7.2,
+      "hn_recommending_users": 22,
+      "hn_threads": 27,
+      "hn_years_spanned": 16,
+      "rec_score": 46.61,
+      "hidden_gem_score": 11.53,
+      "genres": [
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "world-auteur",
+        "competence-porn"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 27 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Das Boot",
+      "year": 1981,
+      "imdb_id": "tt0082096",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 21,
+      "hn_threads": 19,
+      "hn_years_spanned": 11,
+      "rec_score": 46.15,
+      "hidden_gem_score": 11.62,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Wolfgang Petersen"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 19 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Your Name.",
+      "year": 2016,
+      "imdb_id": "tt5311514",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 21,
+      "hn_threads": 23,
+      "hn_years_spanned": 11,
+      "rec_score": 46.15,
+      "hidden_gem_score": 10.59,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Makoto Shinkai"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 23 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "No Country for Old Men",
+      "year": 2007,
+      "imdb_id": "tt0477348",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 19,
+      "hn_threads": 26,
+      "hn_years_spanned": 13,
+      "rec_score": 45.84,
+      "hidden_gem_score": 8.54,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box"
+      ],
+      "directors": [
+        "Ethan Coen",
+        "Joel Coen"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 26 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "imdb_id": "tt0071853",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 24,
+      "hn_threads": 31,
+      "hn_years_spanned": 14,
+      "rec_score": 45.67,
+      "hidden_gem_score": 9.63,
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "vibes": [],
+      "directors": [
+        "Terry Gilliam",
+        "Terry Jones"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 31 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "imdb_id": "tt1345836",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 24,
+      "hn_threads": 26,
+      "hn_years_spanned": 11,
+      "rec_score": 45.48,
+      "hidden_gem_score": 9.24,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "poster": "",
+      "tagline": "24 HN recommenders \u00b7 26 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "imdb_id": "tt0246578",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 23,
+      "hn_threads": 23,
+      "hn_years_spanned": 13,
+      "rec_score": 45.41,
+      "hidden_gem_score": 8.92,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Richard Kelly"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 23 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "GoodFellas",
+      "year": 1990,
+      "imdb_id": "tt0099685",
+      "imdb_rating": 8.7,
+      "hn_recommending_users": 23,
+      "hn_threads": 37,
+      "hn_years_spanned": 15,
+      "rec_score": 45.41,
+      "hidden_gem_score": 8.89,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "poster": "",
+      "tagline": "23 HN recommenders \u00b7 37 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "A Scanner Darkly",
+      "year": 2006,
+      "imdb_id": "tt0405296",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 21,
+      "hn_threads": 36,
+      "hn_years_spanned": 14,
+      "rec_score": 44.89,
+      "hidden_gem_score": 14.41,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Crime"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 36 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Demolition Man",
+      "year": 1993,
+      "imdb_id": "tt0106697",
+      "imdb_rating": 6.7,
+      "hn_recommending_users": 20,
+      "hn_threads": 47,
+      "hn_years_spanned": 14,
+      "rec_score": 44.63,
+      "hidden_gem_score": 11.99,
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Marco Brambilla"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 47 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "imdb_id": "tt0113481",
+      "imdb_rating": 5.6,
+      "hn_recommending_users": 21,
+      "hn_threads": 46,
+      "hn_years_spanned": 16,
+      "rec_score": 43.43,
+      "hidden_gem_score": 10.31,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Robert Longo"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 46 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Boiler Room",
+      "year": 2000,
+      "imdb_id": "tt0181984",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 20,
+      "hn_threads": 33,
+      "hn_years_spanned": 15,
+      "rec_score": 43.17,
+      "hidden_gem_score": 17.08,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "obsession-docs",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Ben Younger"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 33 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Aliens",
+      "year": 1986,
+      "imdb_id": "tt0090605",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 20,
+      "hn_threads": 32,
+      "hn_years_spanned": 15,
+      "rec_score": 43.17,
+      "hidden_gem_score": 8.35,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "James Cameron"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 32 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Event Horizon",
+      "year": 1997,
+      "imdb_id": "tt0119081",
+      "imdb_rating": 6.6,
+      "hn_recommending_users": 22,
+      "hn_threads": 23,
+      "hn_years_spanned": 9,
+      "rec_score": 43.04,
+      "hidden_gem_score": 12.86,
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Paul W.S. Anderson"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 23 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "Catch Me If You Can",
+      "year": 2002,
+      "imdb_id": "tt0264464",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 19,
+      "hn_threads": 29,
+      "hn_years_spanned": 15,
+      "rec_score": 42.91,
+      "hidden_gem_score": 8.12,
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 29 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Kiki's Delivery Service",
+      "year": 1989,
+      "imdb_id": "tt0097814",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 25,
+      "hn_threads": 16,
+      "hn_years_spanned": 7,
+      "rec_score": 42.74,
+      "hidden_gem_score": 14.57,
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "",
+      "tagline": "25 HN recommenders \u00b7 16 threads \u00b7 7 years on HN"
+    },
+    {
+      "title": "The Imitation Game",
+      "year": 2014,
+      "imdb_id": "tt2084970",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 17,
+      "hn_threads": 40,
+      "hn_years_spanned": 13,
+      "rec_score": 42.4,
+      "hidden_gem_score": 7.9,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "obsession-docs",
+        "competence-porn"
+      ],
+      "directors": [
+        "Morten Tyldum"
+      ],
+      "poster": "",
+      "tagline": "17 HN recommenders \u00b7 40 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The Day After",
+      "year": 1983,
+      "imdb_id": "tt0085404",
+      "imdb_rating": 7.0,
+      "hn_recommending_users": 20,
+      "hn_threads": 31,
+      "hn_years_spanned": 11,
+      "rec_score": 41.67,
+      "hidden_gem_score": 23.13,
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "hard-scifi",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Nicholas Meyer"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 31 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Waking Life",
+      "year": 2001,
+      "imdb_id": "tt0243017",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 19,
+      "hn_threads": 23,
+      "hn_years_spanned": 13,
+      "rec_score": 41.45,
+      "hidden_gem_score": 15.7,
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Richard Linklater"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 23 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The Incredibles",
+      "year": 2004,
+      "imdb_id": "tt0317705",
+      "imdb_rating": 8.0,
+      "hn_recommending_users": 16,
+      "hn_threads": 23,
+      "hn_years_spanned": 13,
+      "rec_score": 40.68,
+      "hidden_gem_score": 7.52,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "vibes": [],
+      "directors": [
+        "Brad Bird"
+      ],
+      "poster": "",
+      "tagline": "16 HN recommenders \u00b7 23 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The American",
+      "year": 2010,
+      "imdb_id": "tt1440728",
+      "imdb_rating": 6.3,
+      "hn_recommending_users": 21,
+      "hn_threads": 26,
+      "hn_years_spanned": 15,
+      "rec_score": 40.51,
+      "hidden_gem_score": 9.03,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "competence-porn"
+      ],
+      "directors": [
+        "Anton Corbijn"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 26 threads \u00b7 15 years on HN"
+    },
+    {
+      "title": "Knives Out",
+      "year": 2019,
+      "imdb_id": "tt8946378",
+      "imdb_rating": 7.9,
+      "hn_recommending_users": 22,
+      "hn_threads": 20,
+      "hn_years_spanned": 6,
+      "rec_score": 40.32,
+      "hidden_gem_score": 9.64,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Rian Johnson"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 20 threads \u00b7 6 years on HN"
+    },
+    {
+      "title": "The Third Man",
+      "year": 1949,
+      "imdb_id": "tt0041959",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 17,
+      "hn_threads": 21,
+      "hn_years_spanned": 13,
+      "rec_score": 39.47,
+      "hidden_gem_score": 10.72,
+      "genres": [
+        "Drama",
+        "Film-Noir",
+        "Mystery"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hackers-crypto",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Carol Reed"
+      ],
+      "poster": "",
+      "tagline": "17 HN recommenders \u00b7 21 threads \u00b7 13 years on HN"
+    },
+    {
+      "title": "The Blair Witch Project",
+      "year": 1999,
+      "imdb_id": "tt0185937",
+      "imdb_rating": 6.5,
+      "hn_recommending_users": 21,
+      "hn_threads": 27,
+      "hn_years_spanned": 14,
+      "rec_score": 39.04,
+      "hidden_gem_score": 9.7,
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "obsession-docs",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Daniel Myrick",
+        "Eduardo S\u00e1nchez"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 27 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "The Room",
+      "year": 2003,
+      "imdb_id": "tt0368226",
+      "imdb_rating": 3.6,
+      "hn_recommending_users": 21,
+      "hn_threads": 18,
+      "hn_years_spanned": 12,
+      "rec_score": 39.04,
+      "hidden_gem_score": 8.96,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [],
+      "directors": [
+        "Tommy Wiseau"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 18 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Psycho",
+      "year": 1960,
+      "imdb_id": "tt0054215",
+      "imdb_rating": 8.5,
+      "hn_recommending_users": 19,
+      "hn_threads": 22,
+      "hn_years_spanned": 11,
+      "rec_score": 38.59,
+      "hidden_gem_score": 7.85,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 22 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Synecdoche, New York",
+      "year": 2008,
+      "imdb_id": "tt0383028",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 19,
+      "hn_threads": 19,
+      "hn_years_spanned": 11,
+      "rec_score": 38.59,
+      "hidden_gem_score": 13.47,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur"
+      ],
+      "directors": [
+        "Charlie Kaufman"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 19 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "The Fall",
+      "year": 2006,
+      "imdb_id": "tt0460791",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 18,
+      "hn_threads": 18,
+      "hn_years_spanned": 9,
+      "rec_score": 38.19,
+      "hidden_gem_score": 13.05,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "obsession-docs",
+        "systemic-finance"
+      ],
+      "directors": [
+        "Tarsem Singh"
+      ],
+      "poster": "",
+      "tagline": "18 HN recommenders \u00b7 18 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "City of God",
+      "year": 2002,
+      "imdb_id": "tt0317248",
+      "imdb_rating": 8.6,
+      "hn_recommending_users": 17,
+      "hn_threads": 20,
+      "hn_years_spanned": 12,
+      "rec_score": 38.01,
+      "hidden_gem_score": 7.26,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "world-auteur",
+        "puzzle-box",
+        "competence-porn"
+      ],
+      "directors": [
+        "K\u00e1tia Lund",
+        "Fernando Meirelles"
+      ],
+      "poster": "",
+      "tagline": "17 HN recommenders \u00b7 20 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "The Hunt for Red October",
+      "year": 1990,
+      "imdb_id": "tt0099810",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 17,
+      "hn_threads": 32,
+      "hn_years_spanned": 12,
+      "rec_score": 38.01,
+      "hidden_gem_score": 9.88,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "vibes": [
+        "competence-porn",
+        "hard-scifi",
+        "systemic-finance"
+      ],
+      "directors": [
+        "John McTiernan"
+      ],
+      "poster": "",
+      "tagline": "17 HN recommenders \u00b7 32 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "American Beauty",
+      "year": 1999,
+      "imdb_id": "tt0169547",
+      "imdb_rating": 8.3,
+      "hn_recommending_users": 16,
+      "hn_threads": 29,
+      "hn_years_spanned": 14,
+      "rec_score": 37.75,
+      "hidden_gem_score": 7.07,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Sam Mendes"
+      ],
+      "poster": "",
+      "tagline": "16 HN recommenders \u00b7 29 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Hidden Figures",
+      "year": 2016,
+      "imdb_id": "tt4846340",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 15,
+      "hn_threads": 37,
+      "hn_years_spanned": 10,
+      "rec_score": 37.6,
+      "hidden_gem_score": 9.42,
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "competence-porn",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Theodore Melfi"
+      ],
+      "poster": "",
+      "tagline": "15 HN recommenders \u00b7 37 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "The Last Starfighter",
+      "year": 1984,
+      "imdb_id": "tt0087597",
+      "imdb_rating": 6.7,
+      "hn_recommending_users": 20,
+      "hn_threads": 25,
+      "hn_years_spanned": 12,
+      "rec_score": 37.32,
+      "hidden_gem_score": 16.22,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Nick Castle"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 25 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "V for Vendetta",
+      "year": 2005,
+      "imdb_id": "tt0434409",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 19,
+      "hn_threads": 38,
+      "hn_years_spanned": 16,
+      "rec_score": 37.07,
+      "hidden_gem_score": 7.28,
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hackers-crypto",
+        "hard-scifi",
+        "puzzle-box"
+      ],
+      "directors": [
+        "James McTeigue"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 38 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "Fantastic Four",
+      "year": 2005,
+      "imdb_id": "tt0120667",
+      "imdb_rating": 5.7,
+      "hn_recommending_users": 13,
+      "hn_threads": 12,
+      "hn_years_spanned": 9,
+      "rec_score": 37.04,
+      "hidden_gem_score": 5.65,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "vibes": [],
+      "directors": [
+        "Tim Story"
+      ],
+      "poster": "",
+      "tagline": "13 HN recommenders \u00b7 12 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "28 Days Later",
+      "year": 2002,
+      "imdb_id": "tt0289043",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 18,
+      "hn_threads": 20,
+      "hn_years_spanned": 11,
+      "rec_score": 36.93,
+      "hidden_gem_score": 7.98,
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Danny Boyle"
+      ],
+      "poster": "",
+      "tagline": "18 HN recommenders \u00b7 20 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "year": 2014,
+      "imdb_id": "tt1843866",
+      "imdb_rating": 7.7,
+      "hn_recommending_users": 18,
+      "hn_threads": 22,
+      "hn_years_spanned": 12,
+      "rec_score": 36.81,
+      "hidden_gem_score": 7.14,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "poster": "",
+      "tagline": "18 HN recommenders \u00b7 22 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "There Will Be Blood",
+      "year": 2007,
+      "imdb_id": "tt0469494",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 16,
+      "hn_threads": 23,
+      "hn_years_spanned": 12,
+      "rec_score": 36.29,
+      "hidden_gem_score": 7.1,
+      "genres": [
+        "Drama"
+      ],
+      "vibes": [
+        "obsession-docs",
+        "hackers-crypto",
+        "world-auteur"
+      ],
+      "directors": [
+        "Paul Thomas Anderson"
+      ],
+      "poster": "",
+      "tagline": "16 HN recommenders \u00b7 23 threads \u00b7 12 years on HN"
+    },
+    {
+      "title": "Lord of War",
+      "year": 2005,
+      "imdb_id": "tt0399295",
+      "imdb_rating": 7.6,
+      "hn_recommending_users": 15,
+      "hn_threads": 23,
+      "hn_years_spanned": 16,
+      "rec_score": 36.03,
+      "hidden_gem_score": 8.13,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "vibes": [
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Andrew Niccol"
+      ],
+      "poster": "",
+      "tagline": "15 HN recommenders \u00b7 23 threads \u00b7 16 years on HN"
+    },
+    {
+      "title": "The Hurt Locker",
+      "year": 2008,
+      "imdb_id": "tt0887912",
+      "imdb_rating": 7.5,
+      "hn_recommending_users": 19,
+      "hn_threads": 17,
+      "hn_years_spanned": 11,
+      "rec_score": 35.77,
+      "hidden_gem_score": 8.11,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "vibes": [
+        "systemic-finance",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 17 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "Don't Look Up",
+      "year": 2021,
+      "imdb_id": "tt11286314",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 22,
+      "hn_threads": 55,
+      "hn_years_spanned": 6,
+      "rec_score": 35.7,
+      "hidden_gem_score": 9.13,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "systemic-finance",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Adam McKay"
+      ],
+      "poster": "",
+      "tagline": "22 HN recommenders \u00b7 55 threads \u00b7 6 years on HN"
+    },
+    {
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "imdb_id": "tt4154796",
+      "imdb_rating": 8.4,
+      "hn_recommending_users": 20,
+      "hn_threads": 25,
+      "hn_years_spanned": 7,
+      "rec_score": 35.64,
+      "hidden_gem_score": 8.26,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi"
+      ],
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "poster": "",
+      "tagline": "20 HN recommenders \u00b7 25 threads \u00b7 7 years on HN"
+    },
+    {
+      "title": "Snow White",
+      "year": 2025,
+      "imdb_id": "tt6208148",
+      "imdb_rating": 2.2,
+      "hn_recommending_users": 17,
+      "hn_threads": 35,
+      "hn_years_spanned": 14,
+      "rec_score": 35.09,
+      "hidden_gem_score": 5.21,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "vibes": [
+        "obsession-docs"
+      ],
+      "directors": [
+        "Marc Webb"
+      ],
+      "poster": "",
+      "tagline": "17 HN recommenders \u00b7 35 threads \u00b7 14 years on HN"
+    },
+    {
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "imdb_id": "tt0063350",
+      "imdb_rating": 7.8,
+      "hn_recommending_users": 16,
+      "hn_threads": 19,
+      "hn_years_spanned": 11,
+      "rec_score": 35.03,
+      "hidden_gem_score": 10.73,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "vibes": [
+        "puzzle-box"
+      ],
+      "directors": [
+        "George A. Romero"
+      ],
+      "poster": "",
+      "tagline": "16 HN recommenders \u00b7 19 threads \u00b7 11 years on HN"
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "year": 2010,
+      "imdb_id": "tt0892769",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 15,
+      "hn_threads": 20,
+      "hn_years_spanned": 9,
+      "rec_score": 34.88,
+      "hidden_gem_score": 7.17,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "vibes": [],
+      "directors": [
+        "Dean DeBlois",
+        "Chris Sanders"
+      ],
+      "poster": "",
+      "tagline": "15 HN recommenders \u00b7 20 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "My Neighbor Totoro",
+      "year": 1988,
+      "imdb_id": "tt0096283",
+      "imdb_rating": 8.1,
+      "hn_recommending_users": 21,
+      "hn_threads": 19,
+      "hn_years_spanned": 7,
+      "rec_score": 34.65,
+      "hidden_gem_score": 9.4,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "vibes": [
+        "world-auteur",
+        "hard-scifi"
+      ],
+      "directors": [
+        "Hayao Miyazaki"
+      ],
+      "poster": "",
+      "tagline": "21 HN recommenders \u00b7 19 threads \u00b7 7 years on HN"
+    },
+    {
+      "title": "Timecrimes",
+      "year": 2007,
+      "imdb_id": "tt0480669",
+      "imdb_rating": 7.1,
+      "hn_recommending_users": 19,
+      "hn_threads": 15,
+      "hn_years_spanned": 10,
+      "rec_score": 34.48,
+      "hidden_gem_score": 14.03,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "puzzle-box",
+        "hard-scifi",
+        "hackers-crypto"
+      ],
+      "directors": [
+        "Nacho Vigalondo"
+      ],
+      "poster": "",
+      "tagline": "19 HN recommenders \u00b7 15 threads \u00b7 10 years on HN"
+    },
+    {
+      "title": "Full Metal Jacket",
+      "year": 1987,
+      "imdb_id": "tt0093058",
+      "imdb_rating": 8.2,
+      "hn_recommending_users": 18,
+      "hn_threads": 22,
+      "hn_years_spanned": 9,
+      "rec_score": 34.27,
+      "hidden_gem_score": 7.42,
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "vibes": [
+        "world-auteur",
+        "systemic-finance",
+        "puzzle-box"
+      ],
+      "directors": [
+        "Stanley Kubrick"
+      ],
+      "poster": "",
+      "tagline": "18 HN recommenders \u00b7 22 threads \u00b7 9 years on HN"
+    },
+    {
+      "title": "Jurassic World",
+      "year": 2015,
+      "imdb_id": "tt0369610",
+      "imdb_rating": 6.9,
+      "hn_recommending_users": 18,
+      "hn_threads": 17,
+      "hn_years_spanned": 10,
+      "rec_score": 34.24,
+      "hidden_gem_score": 7.36,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "vibes": [
+        "hard-scifi",
+        "hackers-crypto",
+        "obsession-docs"
+      ],
+      "directors": [
+        "Colin Trevorrow"
+      ],
+      "poster": "",
+      "tagline": "18 HN recommenders \u00b7 17 threads \u00b7 10 years on HN"
+    }
+  ],
+  "meta": {
+    "source": "gnumanth/hnmovies",
+    "updated": "2026-11-02",
+    "description": "Feature films repeatedly recommended on Hacker News (meme-filtered rec_score)"
+  }
+}

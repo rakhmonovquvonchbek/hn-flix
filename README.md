@@ -1,0 +1,41 @@
+# HNFlix
+
+Netflix-style browsing UI for **feature films repeatedly recommended on Hacker News** — powered by the [HNMovies](https://hnmovies.org/) dataset (`gnumanth/hnmovies`).
+
+## Run locally
+
+```bash
+npm install
+npm run dev
+```
+
+Open the URL Vite prints (usually `http://localhost:5173`).
+
+## Build
+
+```bash
+npm run build
+npm run preview
+```
+
+## Live site
+
+After deploy, the app is at **https://rakhmonovquvonchbek.github.io/hn-flix/** (GitHub Pages).
+
+## Data
+
+- `public/data/movies.json` — top 200 HN-endorsed **movies** (documentaries excluded from this UI per “movies only”).
+- Scores and thread counts come from HNMovies’ meme-filtered `rec_score` and `hn_years_spanned` fields.
+- Posters: Wikipedia thumbnails where available; gradient fallback otherwise.
+
+## Refresh catalog
+
+From the repo root (requires `pyarrow`):
+
+```bash
+pip install pyarrow
+curl -sSL "https://huggingface.co/datasets/gnumanth/hnmovies/resolve/main/data/train-00000-of-00001.parquet" -o /tmp/hnmovies.parquet
+python3 scripts/export_movies.py   # add script if you extend the pipeline
+```
+
+The initial export was generated inline when the project was created.
